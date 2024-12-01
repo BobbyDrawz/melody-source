@@ -6,7 +6,7 @@
 
 1. **Download Haxe**: To get started, you'll need to download [Haxe](https://haxe.org/). We recommend using version 4.3.4 to 4.3.6 (the most recent stable version at the time).
 
-2. **Obtain SScript**: SScript (SuperlativeScript) is the game's HaxeScript parser library. However, it has been taken down. You can still obtain it by going to [Cobalt's SScript Archive](https://github.com/CCobaltDev/SScript-Archive). Download **version 19.0.618** and move the `SScript-19,0,618.zip` file into the source code repository.
+2. **Obtain SScript**: SScript (SuperlativeScript) is the game's HaxeScript parser library. However, it has been taken down. You can still obtain it by going to [Cobalt's SScript Archive](https://github.com/CCobaltDev/SScript-Archive). Download **version 19.0.618** and move the `SScript-19,0,618.zip` file into the source code repository after unzipping it.
 
 3. **Follow Building Instructions**: After obtaining SScript, refer to the [building instructions](./BUILDING.md) for detailed setup steps.
 
