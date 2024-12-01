@@ -56,5 +56,5 @@ Just like base FNF, this engine runs on the Apache 2.0 License. If you want to k
 |__|_|  /\___  >____/\____/\____ |/ ____|\___  >___|  /\___  /|__|___|  /\___  >
       \/     \/                 \/\/         \/     \//_____/         \/     \/ 
 
-                        just be havin fun the way you do
+                    just have fun the way you want to
 ```
