@@ -2,15 +2,15 @@
 
 **MelodyEngine** is a modified version of the popular [**Psych Engine**](https://github.com/ShadowMario/FNF-PsychEngine) created with the goal of making FNF modding over the base Funkin' content easier and more customizable. The engine provides users with full control over the base game through softcoding, allowing them to easily create mods and adjust the game's visual themes.
 
+**DISCLAIMER**: Since I do NOT know how to use git, I will be posting the source code on the github releases.
+
 ## Installation
 
-1. **Download Source Code**: Since I do NOT know how to use git, I will be posting the source code on the github releases.
+1. **Download Haxe**: To get started, you'll need to download [Haxe](https://haxe.org/). We recommend using version 4.3.4 to 4.3.6 (the most recent stable version at the time).
 
-2. **Download Haxe**: To get started, you'll need to download [Haxe](https://haxe.org/). We recommend using version 4.3.4 to 4.3.6 (the most recent stable version at the time).
+2. **Obtain SScript**: SScript (SuperlativeScript) is the game's HaxeScript parser library. However, it has been taken down. You can still obtain it by going to [Cobalt's SScript Archive](https://github.com/CCobaltDev/SScript-Archive). Download **version 19.0.618** and move the `SScript-19,0,618.zip` file into the source code repository after unzipping it.
 
-3. **Obtain SScript**: SScript (SuperlativeScript) is the game's HaxeScript parser library. However, it has been taken down. You can still obtain it by going to [Cobalt's SScript Archive](https://github.com/CCobaltDev/SScript-Archive). Download **version 19.0.618** and move the `SScript-19,0,618.zip` file into the source code repository after unzipping it.
-
-4. **Follow Building Instructions**: After obtaining SScript, refer to the [building instructions](./BUILDING.md) for detailed setup steps.
+3. **Follow Building Instructions**: After obtaining SScript, refer to the [building instructions](./BUILDING.md) for detailed setup steps.
 
 ## Compiling
 
