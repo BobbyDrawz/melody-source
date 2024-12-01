@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. **Download Source Code**: Since I do NOT know how to use git, I posted the source code on a google drive folder, which can be found [here](https://drive.google.com/drive/u/1/folders/1is07b16H-FujScjXZdZTf0PHhYonZhdq).
+1. **Download Source Code**: Since I do NOT know how to use git, I will be posting the source code on the github releases.
 
 2. **Download Haxe**: To get started, you'll need to download [Haxe](https://haxe.org/). We recommend using version 4.3.4 to 4.3.6 (the most recent stable version at the time).
 
